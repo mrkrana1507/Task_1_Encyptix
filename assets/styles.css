@@ -1,0 +1,109 @@
+main {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+}
+
+#title {
+    text-align: center;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+}
+
+span {
+    color: rgb(43, 110, 255);
+    font-weight: bold;
+}
+
+#tagline {
+    text-align: center;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+#img-div {
+    background-color: #ffffff;
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 100%;
+}
+
+#img-caption,
+p {
+    font-weight: normal;
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.9rem;
+    text-align: center;
+    font-style: italic;
+}
+
+#timeline-title {
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: 1.3rem
+}
+
+#tribute-info {
+    background-color: #ffffff;
+    align-items: center;
+    margin: 10px auto;
+    border-radius: 10px;
+    display: block;
+    max-width: 1000px;
+}
+
+li {
+    padding: 10px;
+    text-align: justify;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+blockquote {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px auto;
+    text-align: center;
+    font-style: italic;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    max-width: 1000px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#link {
+    font-size: 1.2em;
+    font-style: normal;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(29, 100, 255);
+}
+
+a:hover {
+    color: rgb(118, 32, 255);
+}
